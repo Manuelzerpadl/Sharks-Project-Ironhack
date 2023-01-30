@@ -1,6 +1,9 @@
 Project | Global Sharks Attack Cleaning
 
 
+![](https://github.com/Manuelzerpadl/Sharks-Project-Ironhack/blob/4ff8375db16c5f623cc0519c26969f20deb76f48/HD-wallpaper-nemo-shark-dory.jpg)
+
+
 
 Descripcion del proyecto
 
